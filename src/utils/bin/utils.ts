@@ -77,7 +77,7 @@ Type 'help' to see list of available commands.
 The project is open-source 🎉 type 'repo' to check out the repository.
 
 New 🎉: Try out the new 'theme' command. See all available themes <a href="https://github.com/Web3ID/terminal-blockchain/tree/main/docs/themes">in the docs</a>.
-New 🎉: New command 'neofetch', for you linux.
+New 🎉: New command 'neofetch', to see your Operating Systems.
 New 🎉: New command 'sudo', to see Web3 Indonesia Grand Opening.
 --
 `;
