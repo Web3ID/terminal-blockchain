@@ -44,7 +44,7 @@ export const emacs = async (args?: string[]): Promise<string> => {
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank');
+  window.open('https://www.youtube.com/watch?v=z_piJu1UkkI', '_blank');
 
   return `Permission denied: unable to run the command '${args[0]}' as root.`;
 };
@@ -78,7 +78,7 @@ The project is open-source 🎉 type 'repo' to check out the repository.
 
 New 🎉: Try out the new 'theme' command. See all available themes <a href="https://github.com/Web3ID/terminal-blockchain/tree/main/docs/themes">in the docs</a>.
 New 🎉: New command 'neofetch', for you linux.
-New 🎉: New command 'web3', to learn blockchain and web3.
+New 🎉: New command 'sudo', to see Web3 Indonesia Grand Opening.
 --
 `;
 };
