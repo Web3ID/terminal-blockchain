@@ -20,7 +20,7 @@ export const date = async (args: string[]): Promise<string> => {
 };
 
 export const gui = async (args: string[]): Promise<string> => {
-  window.open('https:/web30.my.id', '_self');
+  window.open('https://dapps.my.id', '_self');
 
   return 'Opening GUI version...';
 };
