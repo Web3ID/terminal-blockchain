@@ -20,15 +20,15 @@ export const date = async (args: string[]): Promise<string> => {
 };
 
 export const gui = async (args: string[]): Promise<string> => {
-  window.open('https://dapps.my.id', '_self');
+  window.open('https://web30.my.id', '_self');
 
   return 'Opening GUI version...';
 };
 
 export const email = async (args: string[]): Promise<string> => {
-  window.open('mailto:support@web30.my.id');
+  window.open('mailto:web3idn.crypto@mail3.me');
 
-  return 'Opening mailto:support@web30.my.id...';
+  return 'Opening mailto:web3idn.crypto@mail3.me...';
 };
 
 export const vi = async (args: string[]): Promise<string> => {
